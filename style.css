@@ -1,0 +1,26 @@
+*{
+  text-align: center;
+  background-image: url("./img/JOKER.jpg");
+
+}
+
+body{
+    height: 80vh;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    background: nome;
+    color: blue;
+    background-color: blue;
+    width: 90px;
+    height:40px;
+}
+footer{
+   background: none;   
+}
+
